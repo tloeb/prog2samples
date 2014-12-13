@@ -1,0 +1,11 @@
+package de.ostfalia.prog2.de.ostfalia.prog2.dsl
+
+use(DistanceCategory) {
+def d1 = 1.m
+def d2 = 1.cm
+
+def d3 = 4.km
+
+    println(d1.plus(d2).length)
+    println(d3.plus(d2).length)
+}
