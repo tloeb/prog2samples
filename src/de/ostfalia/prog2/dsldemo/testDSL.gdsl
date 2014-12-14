@@ -1,4 +1,4 @@
-package de.ostfalia.prog2.de.ostfalia.prog2.dsl
+package de.ostfalia.prog2.dsldemo
 
 use(DistanceCategory) {
 def d1 = 1.m

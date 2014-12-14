@@ -1,4 +1,4 @@
-package de.ostfalia.prog2.de.ostfalia.prog2.dsl
+package de.ostfalia.prog2.dsldemo
 
 /**
  * Created by loeb on 13.12.2014.
